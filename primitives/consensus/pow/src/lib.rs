@@ -24,7 +24,7 @@ use sp_runtime::ConsensusEngineId;
 use codec::Decode;
 
 /// The `ConsensusEngineId` of PoW.
-pub const POW_ENGINE_ID: ConsensusEngineId = [b'p', b'o', b'w', b'_'];
+pub const POW_ENGINE_ID: ConsensusEngineId = [b'a', b'u', b'r', b'a'];
 
 /// Type of seal.
 pub type Seal = Vec<u8>;
