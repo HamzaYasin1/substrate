@@ -9,7 +9,7 @@ pwasm-libc/Cargo.lock
 bin/node/runtime/wasm/target/
 **/._*
 **/.criterion/
-.vscode
+temp_auto_push.bat
 polkadot.*
 .DS_Store
 .idea/
@@ -22,3 +22,5 @@ rls*.log
 **/hfuzz_target/
 **/hfuzz_workspace/
 .cargo/
+.gitignore
+branch_structure.json
