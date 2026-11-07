@@ -10,7 +10,6 @@ bin/node/runtime/wasm/target/
 **/._*
 **/.criterion/
 polkadot.*
-temp_auto_push.bat
 .DS_Store
 .idea/
 nohup.out
@@ -24,4 +23,3 @@ rls*.log
 .cargo/
 .cargo-remote.toml
 .gitignore
-branch_structure.json
