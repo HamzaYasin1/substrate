@@ -23,5 +23,5 @@ rls*.log
 .cargo/
 .cargo-remote.toml
 .gitignore
-config.bat
 node_modules
+config.bat
