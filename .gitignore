@@ -22,5 +22,5 @@ rls*.log
 **/hfuzz_workspace/
 .cargo/
 .gitignore
-config.bat
 node_modules
+config.bat
